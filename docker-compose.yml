@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  agenda.services:
+    image: ${DOCKER_REGISTRY}agendaservices
+    build:
+      context: .
+      dockerfile: Agenda.Services\Dockerfile
