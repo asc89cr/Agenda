@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{B88E659B-9663-4622-B52B-F92CB9377736}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Web", "WebApplication1\Agenda.Web.csproj", "{B88E659B-9663-4622-B52B-F92CB9377736}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Models", "Agenda.Models\Agenda.Models.csproj", "{BA976530-7E89-4C93-BBF9-DBC46317D051}"
 EndProject
